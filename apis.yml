@@ -1,0 +1,12 @@
+name: openCypher
+description: openCypher is an open-source project that provides a standardized graph
+  query language originally developed by Neo4j for querying property graphs. It enables
+  developers to write expressive pattern-matching queries against graph databases,
+  and its specification has been adopted by multiple graph database vendors.
+url: null
+tags:
+- openCypher
+created: '2025'
+modified: '2025'
+apis: []
+common: []
