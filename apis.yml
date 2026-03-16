@@ -1,12 +1,27 @@
+aid: opencypher
 name: openCypher
-description: openCypher is an open-source project that provides a standardized graph
-  query language originally developed by Neo4j for querying property graphs. It enables
+description: >-
+  openCypher is an open-source project that provides a standardized graph query
+  language originally developed by Neo4j for querying property graphs. It enables
   developers to write expressive pattern-matching queries against graph databases,
   and its specification has been adopted by multiple graph database vendors.
-url: null
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- openCypher
-created: '2025'
-modified: '2025'
+  - openCypher
+  - Graph Database
+  - Query Language
+  - Neo4j
+url: https://raw.githubusercontent.com/api-evangelist/opencypher/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://opencypher.org/
+  - type: GitHub Organization
+    url: https://github.com/opencypher/openCypher
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
