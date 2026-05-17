@@ -20,7 +20,7 @@ apis: []
 common:
   - type: Website
     url: https://opencypher.org/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/opencypher/openCypher
 maintainers:
   - FN: Kin Lane
