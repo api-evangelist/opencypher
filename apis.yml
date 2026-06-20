@@ -6,7 +6,7 @@ description: >-
   developers to write expressive pattern-matching queries against graph databases,
   and its specification has been adopted by multiple graph database vendors.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Graph Database
   - Neo4j
