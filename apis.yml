@@ -6,7 +6,18 @@ description: >-
   developers to write expressive pattern-matching queries against graph databases,
   and its specification has been adopted by multiple graph database vendors.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/opencypher.png
 tags:
   - Graph Database
   - Neo4j
